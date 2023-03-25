@@ -1,3 +1,2 @@
 # OTP-GENERATOR
-The objective is to create a software project and GUI based OTP application in Python.
-We use multiple modules to and how to add functionality to its front end. will create an app that will generate One-time Passwords.OTP is a password that is valid for only one login session or transaction in a computer or a digital device. Now a days OTP’s are used in almost every service like Internet Banking, online transactions, etc. They are generally combination of 4 or 6 numeric digits.
+The objective is to create a software project and GUI based OTP application in Python.By adding multiple modules to its front end will create an app to generate a random OTP (ONE TIME PASSWORD). In this project, the user has to select the password length and then click on the “Generate Password” button.Once the OTP is generated, can copy the generated password wherever required using "Copy To Clipboard" button.
